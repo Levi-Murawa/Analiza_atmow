@@ -1,2 +1,2 @@
-# Analiza_atmow
-Analiza_wlasciwosci_atmow
+# Analiza atomów
+Analiza właściwości atomów
