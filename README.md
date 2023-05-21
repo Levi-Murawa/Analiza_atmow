@@ -1,0 +1,2 @@
+# Analiza_atmow
+Analiza_wlasciwosci_atmow
