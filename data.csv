@@ -44,7 +44,7 @@ atomicNumber, symbol, name, atomicMass, cpkHexColor, electronicConfiguration, el
 43, Tc , Technetium, [98],3B9E9E,[Kr] 4d5 5s2 ,1.9,156,64.5 (+4),,702,-53,"-3, -1, 1, 2, 3, 4, 5, 6, 7",solid,metallic,2430,4538,11.5,transition metal,1937
 44, Ru , Ruthenium, 101.07(2),248F8F,[Kr] 4d7 5s1 ,2.2,126,68 (+3),,710,-101,"-2, 1, 2, 3, 4, 5, 6, 7, 8",solid,metallic,2607,4423,12.37,transition metal,1827
 45, Rh , Rhodium, 102.90550(2),0A7D8C,[Kr] 4d8 5s1 ,2.28,135,66.5 (+3),,720,-110,"-1, 1, 2, 3, 4, 5, 6",solid,metallic,2237,3968,12.45,transition metal,1803
-46, Pd , Palladium, 106.42(1),6985,[Kr] 4d10 ,2.2,131,59 (+1),163,804,-54,"2, 4",solid,metallic,1828,3236,12.023,transition metal,1803
+46, Pd , Palladium, 106.42(1),b1b1b1,[Kr] 4d10 ,2.2,131,59 (+1),163,804,-54,"2, 4",solid,metallic,1828,3236,12.023,transition metal,1803
 47, Ag , Silver, 107.8682(2),C0C0C0,[Kr] 4d10 5s1 ,1.93,153,115 (+1),172,731,-126,"1, 2, 3",solid,metallic,1235,2435,10.49,transition metal,Ancient
 48, Cd , Cadmium, 112.411(8),FFD98F,[Kr] 4d10 5s2 ,1.69,148,95 (+2),158,868,0,2,solid,metallic,594,1040,8.65,transition metal,1817
 49, In , Indium, 114.818(3),A67573,[Kr] 4d10 5s2 5p1 ,1.78,144,80 (+3),193,558,-29,"1, 2, 3",solid,metallic,430,2345,7.31,metal,1863
@@ -66,7 +66,7 @@ atomicNumber, symbol, name, atomicMass, cpkHexColor, electronicConfiguration, el
 65, Tb , Terbium, 158.92535(2),30FFC7,[Xe] 4f9 6s2 ,1.2,,92.3 (+3),,566,-50,"1, 3, 4",solid,metallic,1629,3503,8.219,lanthanoid,1843
 66, Dy , Dysprosium, 162.500(1),1FFFC7,[Xe] 4f10 6s2 ,1.22,,107 (+2),,573,-50,"2, 3",solid,metallic,1685,2840,8.551,lanthanoid,1886
 67, Ho , Holmium, 164.93032(2),00FF9C,[Xe] 4f11 6s2 ,1.23,,90.1 (+3),,581,-50,3,solid,metallic,1747,2973,8.795,lanthanoid,1878
-68, Er , Erbium, 167.259(3),0.00E+00,[Xe] 4f12 6s2 ,1.24,,89 (+3),,589,-50,3,solid,metallic,1770,3141,9.066,lanthanoid,1842
+68, Er , Erbium, 167.259(3),00FF9C,[Xe] 4f12 6s2 ,1.24,,89 (+3),,589,-50,3,solid,metallic,1770,3141,9.066,lanthanoid,1842
 69, Tm , Thulium, 168.93421(2),00D452,[Xe] 4f13 6s2 ,1.25,,103 (+2),,597,-50,"2, 3",solid,metallic,1818,2223,9.321,lanthanoid,1879
 70, Yb , Ytterbium, 173.054(5),00BF38,[Xe] 4f14 6s2 ,1.1,,102 (+2),,603,-50,"2, 3",solid,metallic,1092,1469,6.57,lanthanoid,1878
 71, Lu , Lutetium, 174.9668(1),00AB24,[Xe] 4f14 5d1 6s2 ,1.27,160,86.1 (+3),,524,-50,3,solid,metallic,1936,3675,9.841,lanthanoid,1907
